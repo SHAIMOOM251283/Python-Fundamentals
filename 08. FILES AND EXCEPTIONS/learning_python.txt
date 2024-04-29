@@ -1,0 +1,3 @@
+In Python, you can use classes to simulate real-life objects.
+In Python, you can utilize functions to interact with objects and activate their behavior.
+In Python, you can use for loops to interact with class objects via functions.
